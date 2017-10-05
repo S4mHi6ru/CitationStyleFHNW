@@ -13,7 +13,8 @@ Adapted to most requirements for the MSE engineering for students at the FHNW HA
 ### Installation guide
 * Download Zip-File from GitHub
 * Extract the file on your computer
-* Import *.csl file in Zotero / Mendeley Desktop Client
+* Double click on the *.csl file to install it
+* alternatively import *.csl file in Zotero / Mendeley Desktop Client
 
 ### Versions
 * 1.0: Initial Release
