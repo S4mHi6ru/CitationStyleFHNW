@@ -10,6 +10,11 @@ Adapted to most requirements for the MSE engineering for students at the FHNW HA
 * Mendeley (tested)
 * Zotero (tested)
 
+### Installation guide
+* Download Zip-File from GitHub
+* Extract the file on your computer
+* Import *.csl file in Zotero / Mendeley Desktop Client
+
 ### Versions
 * 1.0: Initial Release
 * 1.1: Added support for DOI
