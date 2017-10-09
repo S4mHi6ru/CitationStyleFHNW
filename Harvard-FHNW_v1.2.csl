@@ -37,7 +37,7 @@
         <multiple>S.</multiple>
       </term>
       <term name="editor">Herausgeber</term>
-      <term name="editor" form="short">Hg.</term>
+      <term name="editor" form="short">Hrsg.</term>
       <term name="et-al">et&amp;#160;al.</term>
       <term name="edition">
         <single>Auflage</single>
