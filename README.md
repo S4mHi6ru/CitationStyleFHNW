@@ -19,6 +19,7 @@ Adapted to most requirements for the MSE engineering for students at the FHNW HA
 ### Versions
 * 1.0: Initial Release
 * 1.1: Added support for DOI
+* 1.2: Removed comma on intext citation & changed short from publischer (Herausgeber) from "Hg." to "Hrsg."
 
 ### Autor
 * S. Hirsbrunner
