@@ -17,6 +17,7 @@ Adapted to most requirements for the MSE engineering for students at the FHNW HA
 * alternatively import *.csl file in Zotero / Mendeley Desktop Client
 
 ### Versions
+* 1.6: Bugfixes & Improvements, corrected sorting order for in-text citation, Issue #13
 * 1.5: Bugfixes & Improvements, Changed Hsgr. to (Hsgr.), Issue #9 & #10 
 * 1.4: Issue #7 fixed, "et al." term shows correctly after 3 authors
 * 1.3: Issue #5 and #6, fixed disambiguation and sort order
