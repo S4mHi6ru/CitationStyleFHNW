@@ -17,6 +17,7 @@ Adapted to most requirements for the MSE engineering for students at the FHNW HA
 * alternatively import *.csl file in Zotero / Mendeley Desktop Client
 
 ### Versions
+* 1.8: Bugfixes
 * 1.7: Bugfixes, added suport for report type in bibliography
 * 1.6: Bugfixes & Improvements, corrected sorting order for in-text citation, Issue #13
 * 1.5: Bugfixes & Improvements, Changed Hsgr. to (Hsgr.), Issue #9 & #10 
